@@ -1,6 +1,6 @@
 # Prompts HSO - Ejercicio de Bases de Datos
 
-**Autor:** Heladia Salgado Olvera  
+**Autor:** Heladia Salgado Osorio  
 **Fecha:** 17 de Noviembre de 2025  
 **Módulo:** AI4Devs - Bases de Datos  
 **Rama:** db-hso  
