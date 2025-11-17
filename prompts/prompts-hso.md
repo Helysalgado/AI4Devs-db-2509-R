@@ -4,9 +4,10 @@
 **Fecha:** 17 de Noviembre de 2025  
 **Módulo:** AI4Devs - Bases de Datos  
 **Rama:** db-hso  
-**Migración:** 20251117233207_db_hso
-Modelo: claude-sonet 4.5
-IDE: cursor
+**Migración:** 20251117233207_db_hso  
+**Modelo:** claude-sonet 4.5   
+**IDE:** cursor  
+
 ---
 
 ## Índice
